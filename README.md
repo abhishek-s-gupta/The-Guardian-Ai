@@ -21,6 +21,7 @@ A smart tool to analyze terms & conditions and detect risk levels.
 - HTML
 - CSS
 - JavaScript
+- NodeJS
 
 ---
 Built as part of hackathon project to analyze privacy risks using smart logic.
